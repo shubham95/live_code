@@ -61,7 +61,6 @@
  
    return (
      <div className="w-full h-full">
-       //
        <AceEditor
          className=''
          placeholder="Write your solution here!"
